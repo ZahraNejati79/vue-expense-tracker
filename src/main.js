@@ -12,6 +12,8 @@ import {
   uniChart,
   uniUserSquare,
   uniSignin,
+  uniEdit,
+  uniTrashAlt,
 } from "vue-unicons/dist/icons";
 
 Unicon.add([
@@ -21,6 +23,8 @@ Unicon.add([
   uniChart,
   uniUserSquare,
   uniSignin,
+  uniEdit,
+  uniTrashAlt,
 ]);
 
 const app = createApp(App);
